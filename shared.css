@@ -11,6 +11,7 @@ body{
     padding: 8px 16px;
     width: 100%;
     vertical-align: middle;
+    position: fixed;
 }
 .main-header > div{
     display: inline-block;
