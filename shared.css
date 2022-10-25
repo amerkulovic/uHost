@@ -12,6 +12,7 @@ body{
     width: 100%;
     vertical-align: middle;
     position: fixed;
+    z-index: 1;
 }
 .main-header > div{
     display: inline-block;
