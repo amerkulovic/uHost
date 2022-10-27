@@ -24,6 +24,12 @@ body{
    text-decoration: none;
    font-weight: bold;
    font-size: 22px;
+   height: 33px;
+   display: inline-block
+}
+.main-header__brand img{
+    height: 100%;
+    vertical-align: middle;
 }
 .main-nav{
     display: inline-block;
