@@ -13,6 +13,8 @@ body{
     vertical-align: middle;
     position: fixed;
     z-index: 1;
+    top: 0;
+    left: 0;
 }
 .main-header > div{
     display: inline-block;
@@ -105,3 +107,13 @@ body{
 .button:focus{
     outline: none;
 }
+/* @media screen and ( max-width :768px){
+    .main-nav__item,
+    .main-nav__item--cta,
+    .main-header
+    .main-nav
+    .main-header__brand{
+        display: flex;
+        flex-direction: column;
+    }
+} */
